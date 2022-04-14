@@ -1,3 +1,2 @@
 # ImageUploadApp
--> This is a simple Image uploader app in one can upload image which will be stored in our firebase database
--> User authentication is done using firebase
+This is a simple image uploader app that allows you to upload images which is stored in our Firebase database , User authentication is done using firebase
